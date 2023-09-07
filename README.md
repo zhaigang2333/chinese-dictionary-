@@ -3,7 +3,6 @@
 
   The words and phrases from the Xinhua Dictionary have been organized, including characters, words, and their respective explanations, along with English translations for the words.
 
-+ 如果对你有用，请给个star。
 
 
 ![字词](https://github.com/zhaigang2333/chinese-dictionary-/blob/main/WX20230902-123243%402x.png)
